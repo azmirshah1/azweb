@@ -1,0 +1,3763 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: journey\n"
+"POT-Creation-Date: 2018-01-26 17:25+0100\n"
+"PO-Revision-Date: 2018-01-26 17:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid ""
+" The page you are looking for might have been removed, had its name changed "
+"or is temporarily unavailable"
+msgstr ""
+
+#: TEMPLATE-post-full.php:95 TEMPLATE-post-sidebar-left.php:104
+#: TEMPLATE-post-sidebar-right.php:90
+msgid "TAGS"
+msgstr ""
+
+#: TEMPLATE-post-full.php:128 TEMPLATE-post-sidebar-left.php:136
+#: TEMPLATE-post-sidebar-right.php:122
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: TEMPLATE-post-full.php:157 TEMPLATE-post-sidebar-left.php:166
+#: TEMPLATE-post-sidebar-right.php:148
+msgid "NEWER POST"
+msgstr ""
+
+#: TEMPLATE-post-full.php:193 TEMPLATE-post-sidebar-left.php:208
+#: TEMPLATE-post-sidebar-right.php:188
+msgid "WRITTEN BY"
+msgstr ""
+
+#: archive.php:41
+msgid "Browsing Tag"
+msgstr ""
+
+#: archive.php:57
+msgid "Author: "
+msgstr ""
+
+#: archive.php:68
+#, php-format
+msgid "day: %s"
+msgstr ""
+
+#: archive.php:71 comments.php:59
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: archive.php:74
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:78
+msgid "archive"
+msgstr ""
+
+#: archive.php:100 framework/include/function-blog-parallax.php:44
+#: framework/include/function-blog.php:48 template/ilgelo-templates.php:71
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:31 framework/include/function-blog.php:319
+#: framework/include/function-ilgelo.php:33
+#: framework/include/function-ilgelo.php:93
+#: template/ilgelo-format.20180118.php:182 template/ilgelo-format.php:182
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:32 framework/include/function-blog.php:315
+#: framework/include/function-ilgelo.php:34
+#: framework/include/function-ilgelo.php:89
+#: template/ilgelo-format.20180118.php:182 template/ilgelo-format.php:182
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:72
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:106
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:107
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:117
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:157
+#: framework/options/core/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: comments.php:162
+msgid "Email"
+msgstr ""
+
+#: comments.php:168
+msgid "Website"
+msgstr ""
+
+#: comments.php:191
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:191
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:203
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:203
+msgid "<div class=\"fancy_one\"><span>"
+msgstr ""
+
+#: comments.php:204
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:205
+msgid "/ Cancel Reply"
+msgstr ""
+
+#: comments.php:206
+msgid "Submit Comment"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:11 framework/acf/acf-options.php:11
+msgid "Featured Image Option"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:14 framework/acf/acf-options.php:14
+msgid "Display Featured Image at the beginning of the Post"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:18 framework/acf/acf-options.php:18
+msgid "Iframe Video / Iframe Music"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:31 framework/acf/acf-options.php:31
+msgid "Gallery Post"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:34 framework/acf/acf-options.php:34
+msgid "Upload your images (minimum width 800px for best results)."
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:41 framework/acf/acf-options.php:41
+msgid "Parallax Cover Image"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:43 framework/acf/acf-options.php:43
+msgid ""
+"Here you can configure if you want parallax cover image on top of the "
+"article blog page."
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:48 framework/acf/acf-options.php:48
+msgid "Upload Cover Image"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:51 framework/acf/acf-options.php:51
+msgid ""
+"Upload your image should be between 1600px x 800px (or more) for best "
+"results."
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:69 framework/acf/acf-options.php:69
+msgid "Blog Post Title Color"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:87 framework/acf/acf-options.php:87
+msgid "Mask Overlay"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:107 framework/acf/acf-options.php:107
+msgid "Cover Image Mask Color"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:125 framework/acf/acf-options.php:125
+msgid "Opacity Mask"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:176 framework/acf/acf-options.php:176
+msgid "Do you want activate author field in this page?"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:185 framework/acf/acf-options.php:185
+msgid "Do you want Activate Post slider in this page?"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:197 framework/acf/acf-options.php:197
+msgid "Select Post"
+msgstr ""
+
+#: framework/acf/acf-options.20170916.php:214 framework/acf/acf-options.php:214
+msgid "Choose your post"
+msgstr ""
+
+#: framework/include/function-blog-parallax.php:83
+#: framework/include/function-blog.php:147
+#: template/ilgelo-format.20180118.php:372
+#: template/ilgelo-format.20180118.php:496
+#: template/ilgelo-format.20180118.php:613 template/ilgelo-format.php:361
+#: template/ilgelo-format.php:485 template/ilgelo-format.php:602
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/include/function-blog-parallax.php:112
+#: framework/include/function-blog.php:215 template/ilgelo-format-slide.php:82
+#: template/ilgelo-format.20180118.php:163
+#: template/ilgelo-format.20180118.php:207
+#: template/ilgelo-format.20180118.php:580 template/ilgelo-format.php:163
+#: template/ilgelo-format.php:207 template/ilgelo-format.php:569
+msgid "READ ARTICLE"
+msgstr ""
+
+#: framework/include/function-blog.php:115
+#: framework/include/function-blog.php:172
+#: template/ilgelo-format.20180118.php:411
+#: template/ilgelo-format.20180118.php:540 template/ilgelo-format.php:400
+#: template/ilgelo-format.php:529
+msgid "VIEW POST"
+msgstr ""
+
+#: framework/include/function-blog.php:116
+#: framework/include/function-blog.php:173
+#: template/ilgelo-format.20180118.php:415
+#: template/ilgelo-format.20180118.php:542 template/ilgelo-format.php:404
+#: template/ilgelo-format.php:531
+msgid "View more"
+msgstr ""
+
+#: framework/include/function-blog.php:317
+#: framework/include/function-ilgelo.php:32
+#: framework/include/function-ilgelo.php:91
+msgid "No Comments"
+msgstr ""
+
+#: framework/include/function-ilgelo.php:13
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: framework/include/function-ilgelo.php:35
+msgid "Comments Off"
+msgstr ""
+
+#: framework/include/function-ilgelo.php:47
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: framework/include/function-ilgelo.php:74
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: framework/include/meta-templates.php:9
+#: framework/include/meta-templates.php:15
+msgid "Post Template"
+msgstr ""
+
+#: framework/include/meta-templates.php:23
+msgid "Default Template"
+msgstr ""
+
+#: framework/include/meta-templates.php:33
+msgid "This theme has no available custom post templates"
+msgstr ""
+
+#: framework/options/config.php:98 framework/options/config.php:99
+msgid "Indie Panel"
+msgstr ""
+
+#: framework/options/config.php:202
+msgid "Documentation"
+msgstr ""
+
+#: framework/options/config.php:208
+#: framework/options/core/inc/welcome/welcome.php:354
+msgid "Support"
+msgstr ""
+
+#: framework/options/config.php:214
+#: framework/options/core/inc/welcome/welcome.php:345
+msgid "Extensions"
+msgstr ""
+
+#: framework/options/config.php:255
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/options/config.php:256 framework/options/config.php:261
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/options/config.php:260
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/options/config.php:267
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/options/config.php:294
+msgid "Basic Settings"
+msgstr ""
+
+#: framework/options/config.php:303
+msgid "FAVICON"
+msgstr ""
+
+#: framework/options/config.php:305
+msgid "Upload the icon of your website."
+msgstr ""
+
+#: framework/options/config.php:317
+msgid "BACK TO TOP BUTTON?"
+msgstr ""
+
+#: framework/options/config.php:318
+msgid "Display the \"Back to Top\" button on the right site of the page."
+msgstr ""
+
+#: framework/options/config.php:327
+msgid "Activate sticky sider ?"
+msgstr ""
+
+#: framework/options/config.php:328
+msgid "Enable/Disable sticky sider bar"
+msgstr ""
+
+#: framework/options/config.php:345
+msgid "Header Settings"
+msgstr ""
+
+#: framework/options/config.php:358
+msgid "HEADER BACKGROUND IMAGE"
+msgstr ""
+
+#: framework/options/config.php:359
+msgid "Select one of these 4 options for your blogs header background"
+msgstr ""
+
+#: framework/options/config.php:380
+msgid "Image Upload"
+msgstr ""
+
+#: framework/options/config.php:382
+msgid "Upload an image for your background."
+msgstr ""
+
+#: framework/options/config.php:391 framework/options/config.php:496
+msgid "Overlay Opacity Mask Color"
+msgstr ""
+
+#: framework/options/config.php:392 framework/options/config.php:533
+msgid ""
+"Select a color for the opacity filter mask that will overlay the background "
+"image, otherwise choose \"Transparent\" to turn off this effect."
+msgstr ""
+
+#: framework/options/config.php:402 framework/options/config.php:506
+#: framework/options/config.php:541
+msgid "Overlay Opacity Mask Value"
+msgstr ""
+
+#: framework/options/config.php:403 framework/options/config.php:507
+#: framework/options/config.php:542
+msgid "Enter a number between 0.0 and 1.0 to set the opacity mask intensity"
+msgstr ""
+
+#: framework/options/config.php:413
+msgid "Background Color"
+msgstr ""
+
+#: framework/options/config.php:414
+msgid "Pick a color"
+msgstr ""
+
+#: framework/options/config.php:432
+msgid "height video background"
+msgstr ""
+
+#: framework/options/config.php:433
+msgid "Specify the height of the video background. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:434
+msgid "width: Min: 0, max: 500, step: 1, default value: 400"
+msgstr ""
+
+#: framework/options/config.php:448
+msgid "Mp4 Video Upload "
+msgstr ""
+
+#: framework/options/config.php:450
+msgid "Upload a valid Mp4 format video. Maximum size 1 Mb."
+msgstr ""
+
+#: framework/options/config.php:461
+msgid "Webm Video Upload"
+msgstr ""
+
+#: framework/options/config.php:463
+msgid "Upload a valid Webm format video. Maximum size 1 Mb."
+msgstr ""
+
+#: framework/options/config.php:473
+msgid "OGV Video Upload"
+msgstr ""
+
+#: framework/options/config.php:475
+msgid "Upload a valid Ogv format video. Maximum size 1 Mb."
+msgstr ""
+
+#: framework/options/config.php:485
+msgid "Image Video Preview"
+msgstr ""
+
+#: framework/options/config.php:487
+msgid ""
+"Upload an image to display as substitute of the video background  if it "
+"loads slower "
+msgstr ""
+
+#: framework/options/config.php:497
+msgid ""
+"Select a color for the opacity filter mask that will overlay the background  "
+"video, otherwise choose \"Transparent\" to turn off this effect."
+msgstr ""
+
+#: framework/options/config.php:523
+msgid "Parallax Image Upload"
+msgstr ""
+
+#: framework/options/config.php:525 framework/options/config.php:558
+msgid "Upload an image for your background. Recommended size 1600x900 px."
+msgstr ""
+
+#: framework/options/config.php:532
+msgid "Overlay Opacity Mask Color "
+msgstr ""
+
+#: framework/options/config.php:556
+msgid "Responsive Image Upload - without logo"
+msgstr ""
+
+#: framework/options/config.php:582
+msgid "HEADER LOGO"
+msgstr ""
+
+#: framework/options/config.php:583
+msgid ""
+"Select one of these 3 options for your site logo that will be displayed  "
+"over the header background. You can choose to upload your own logo image, "
+"display a plain text title or leave it blank, "
+msgstr ""
+
+#: framework/options/config.php:604
+msgid "Retina Logo Image Upload"
+msgstr ""
+
+#: framework/options/config.php:606
+msgid ""
+"Upload a Retina-friendly logo, in order to be correctly displayed on Retina "
+"Devices. Please note the logo must be twice of the normal size (Example: if "
+"you want to show a 60x60 px logo on the website, the size of the image must "
+"be 120x120 px)."
+msgstr ""
+
+#: framework/options/config.php:615 framework/options/config.php:881
+#: framework/options/config.php:2685
+msgid "Logo Width"
+msgstr ""
+
+#: framework/options/config.php:616 framework/options/config.php:882
+msgid "Specify the width of the logo. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:617
+msgid "width: Min: 0, max: 1200, step: 1, default value: 250"
+msgstr ""
+
+#: framework/options/config.php:630 framework/options/config.php:896
+#: framework/options/config.php:2700
+msgid "Logo Height"
+msgstr ""
+
+#: framework/options/config.php:631 framework/options/config.php:897
+msgid "Specify the height of the logo. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:632
+msgid "height: Min: 0, max: 500, step: 1, default value: 70"
+msgstr ""
+
+#: framework/options/config.php:645
+msgid "Logo margin top"
+msgstr ""
+
+#: framework/options/config.php:646
+msgid ""
+"Specify the margin on top the logo. This will also establish the height of "
+"the headers background image. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:647 framework/options/config.php:662
+#: framework/options/config.php:683 framework/options/config.php:698
+msgid "height: Min: 0, max: 100, step: 1, default value: 10"
+msgstr ""
+
+#: framework/options/config.php:660
+msgid "Logo margin Bottom"
+msgstr ""
+
+#: framework/options/config.php:661
+msgid ""
+"Specify the margin below the logo. This will also establish the height of "
+"the headers background image. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:681
+msgid "Logo Margin Top"
+msgstr ""
+
+#: framework/options/config.php:682
+msgid ""
+"Specify the margin on top the text logo. This will also establish the height "
+"of the headers background image. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:696
+msgid "Logo Margin Bottom"
+msgstr ""
+
+#: framework/options/config.php:697
+msgid ""
+"Specify the margin below the text logo. This will also establish the height "
+"of the headers background image. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:718
+msgid "Header Background Image Height"
+msgstr ""
+
+#: framework/options/config.php:719
+msgid ""
+"Establish the height of the header background image. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:737
+msgid "HEADER TOP MENU"
+msgstr ""
+
+#: framework/options/config.php:738
+msgid "Enable a navigation bar on top of the page"
+msgstr ""
+
+#: framework/options/config.php:751
+msgid "Header Top Menu Layout"
+msgstr ""
+
+#: framework/options/config.php:752
+msgid "Select the navigation bar layout you want to use"
+msgstr ""
+
+#: framework/options/config.php:779
+msgid "HEADER BOTTOM MENU"
+msgstr ""
+
+#: framework/options/config.php:780
+msgid "Enable a navigation bar under the header background"
+msgstr ""
+
+#: framework/options/config.php:793
+msgid "Header Bottom Menu Layout"
+msgstr ""
+
+#: framework/options/config.php:794 framework/options/config.php:840
+msgid "Select the navigation bar layout you want to use."
+msgstr ""
+
+#: framework/options/config.php:825
+msgid "SCROLL MENU"
+msgstr ""
+
+#: framework/options/config.php:826
+msgid "Select a navigation bar that will appear when you scroll the page"
+msgstr ""
+
+#: framework/options/config.php:839
+msgid "Scroll Menu Layout"
+msgstr ""
+
+#: framework/options/config.php:856
+msgid "Display Scroll Menu Logo"
+msgstr ""
+
+#: framework/options/config.php:857
+msgid "Upload a logo image to be displayed on the scroll navigation bar."
+msgstr ""
+
+#: framework/options/config.php:870
+msgid "Logo Menu scroll"
+msgstr ""
+
+#: framework/options/config.php:872
+msgid "Upload your logo Menu scroll"
+msgstr ""
+
+#: framework/options/config.php:883 framework/options/config.php:2687
+msgid "width: Min: 0, max: 600, step: 1, default value: 250"
+msgstr ""
+
+#: framework/options/config.php:898 framework/options/config.php:2702
+msgid "height: Min: 0, max: 300, step: 1, default value: 70"
+msgstr ""
+
+#: framework/options/config.php:940
+msgid "Style & Typography"
+msgstr ""
+
+#: framework/options/config.php:948
+msgid "Body Background"
+msgstr ""
+
+#: framework/options/config.php:949
+msgid ""
+"Configure your theme background color. You can also use this option to "
+"upload a pattern or a full size image as your background."
+msgstr ""
+
+#: framework/options/config.php:969
+msgid "Body Font"
+msgstr ""
+
+#: framework/options/config.php:971
+msgid "Specify the body font properties, that includes paragraph tag."
+msgstr ""
+
+#: framework/options/config.php:993
+msgid "Body Font - Small Title"
+msgstr ""
+
+#: framework/options/config.php:995
+msgid ""
+"Specify the font properties that includes widget titles, blog post subtitle "
+"and commands."
+msgstr ""
+
+#: framework/options/config.php:1019
+msgid "BODY FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1020
+msgid "Specify the clickable body font properties."
+msgstr ""
+
+#: framework/options/config.php:1041
+msgid "H1 Font"
+msgstr ""
+
+#: framework/options/config.php:1043
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: framework/options/config.php:1068
+msgid "H1 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1069
+msgid "Specify the clickable H1 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1084
+msgid "H1 Font Margin"
+msgstr ""
+
+#: framework/options/config.php:1100
+msgid "H2 Font"
+msgstr ""
+
+#: framework/options/config.php:1102
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: framework/options/config.php:1129
+msgid "H2 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1130
+msgid "Specify the clickable H2 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1147
+msgid "H2 Font Margin"
+msgstr ""
+
+#: framework/options/config.php:1162
+msgid "H3 Font"
+msgstr ""
+
+#: framework/options/config.php:1164
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: framework/options/config.php:1189
+msgid "H3 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1190
+msgid "Specify the clickable H3 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1207
+msgid "H3 Font Margin"
+msgstr ""
+
+#: framework/options/config.php:1222
+msgid "H4 Font"
+msgstr ""
+
+#: framework/options/config.php:1224
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: framework/options/config.php:1248
+msgid "H4 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1249
+msgid "Specify the clickable H4 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1267 framework/options/config.php:1327
+msgid "H4 Font Margin"
+msgstr ""
+
+#: framework/options/config.php:1282
+msgid "H5 Font"
+msgstr ""
+
+#: framework/options/config.php:1284
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: framework/options/config.php:1309
+msgid "H5 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1310
+msgid "Specify the clickable H5 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1342
+msgid "H6 Font"
+msgstr ""
+
+#: framework/options/config.php:1344
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: framework/options/config.php:1370
+msgid "H6 FONT - LINK & HOVER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1371
+msgid "Specify the clickable H6 tag font properties."
+msgstr ""
+
+#: framework/options/config.php:1387
+msgid "H6 Font Margin"
+msgstr ""
+
+#: framework/options/config.php:1411
+msgid "Elements Styling "
+msgstr ""
+
+#: framework/options/config.php:1420
+msgid "BOX BACKGROUND COLOR"
+msgstr ""
+
+#: framework/options/config.php:1421
+msgid "Pick a background color for the sidebar and blog post text box."
+msgstr ""
+
+#: framework/options/config.php:1432
+msgid "EVIDENCE COLOR"
+msgstr ""
+
+#: framework/options/config.php:1433
+msgid ""
+"Pick a color for the main ornamental elements such as button borders and "
+"arrows."
+msgstr ""
+
+#: framework/options/config.php:1446
+msgid "DIVIDERS COLOR"
+msgstr ""
+
+#: framework/options/config.php:1447
+msgid "Pick a color for the line dividers."
+msgstr ""
+
+#: framework/options/config.php:1460
+msgid "BUTTON FILL BACKGROUND COLOR"
+msgstr ""
+
+#: framework/options/config.php:1461
+msgid "Pick a color for the background of the command buttons."
+msgstr ""
+
+#: framework/options/config.php:1471
+msgid "BUTTON TEXT COLOR"
+msgstr ""
+
+#: framework/options/config.php:1472
+msgid "Pick a color for the text of the command buttons."
+msgstr ""
+
+#: framework/options/config.php:1480
+msgid "BUTTON BORDER COLOR"
+msgstr ""
+
+#: framework/options/config.php:1481
+msgid "Pick a color for the border of the command buttons."
+msgstr ""
+
+#: framework/options/config.php:1502
+msgid "Menu Styling"
+msgstr ""
+
+#: framework/options/config.php:1510
+msgid "Menu bar - background color"
+msgstr ""
+
+#: framework/options/config.php:1511
+msgid "Pick a color for the navigation bar background. Then hit Choose"
+msgstr ""
+
+#: framework/options/config.php:1542
+msgid "Menu bar - links & hover"
+msgstr ""
+
+#: framework/options/config.php:1544
+msgid "Pick a color for the links and their hover style"
+msgstr ""
+
+#: framework/options/config.php:1554
+msgid "Menu bar - Font"
+msgstr ""
+
+#: framework/options/config.php:1556
+msgid "Specify the menu font properties."
+msgstr ""
+
+#: framework/options/config.php:1578
+msgid "Menu bar - Icons color"
+msgstr ""
+
+#: framework/options/config.php:1579
+msgid "Pick a color for the social media and search icons"
+msgstr ""
+
+#: framework/options/config.php:1597
+msgid "Scroll Menu Bar - Background Color"
+msgstr ""
+
+#: framework/options/config.php:1598
+msgid "Pick a background color for the menu bar that appears in scroll mode."
+msgstr ""
+
+#: framework/options/config.php:1606
+msgid "Scroll Menu Bar - Links & Hover"
+msgstr ""
+
+#: framework/options/config.php:1607
+msgid "Pick a color for the links of the menu bar that appears in scroll mode."
+msgstr ""
+
+#: framework/options/config.php:1619
+msgid "Menu Mobile - Links & Hover"
+msgstr ""
+
+#: framework/options/config.php:1620
+msgid "Pick a color for the links of the menu Mobile."
+msgstr ""
+
+#: framework/options/config.php:1633
+msgid "Menu Mobile - Background Color"
+msgstr ""
+
+#: framework/options/config.php:1634
+msgid "Pick a background color for the background menu mobile "
+msgstr ""
+
+#: framework/options/config.php:1664
+msgid "Footer Styling"
+msgstr ""
+
+#: framework/options/config.php:1676
+msgid "Social share bar color"
+msgstr ""
+
+#: framework/options/config.php:1677
+msgid "Choose the background color for the footer social share bar."
+msgstr ""
+
+#: framework/options/config.php:1686
+msgid "Social share bar icons color"
+msgstr ""
+
+#: framework/options/config.php:1687
+msgid "Choose the icons color for the footer social share bar."
+msgstr ""
+
+#: framework/options/config.php:1703
+msgid "Footer Widgets - Background Color"
+msgstr ""
+
+#: framework/options/config.php:1704
+msgid "Pick a background color for the widget space on the footer."
+msgstr ""
+
+#: framework/options/config.php:1714
+msgid "Footer Widgets - title Color"
+msgstr ""
+
+#: framework/options/config.php:1715
+msgid "Pick a title color for the widget space on the footer."
+msgstr ""
+
+#: framework/options/config.php:1726
+msgid "Footer widget - Font & hover color"
+msgstr ""
+
+#: framework/options/config.php:1741
+msgid "Central Footer Background Color"
+msgstr ""
+
+#: framework/options/config.php:1742
+msgid "Pick a background color for the central footer."
+msgstr ""
+
+#: framework/options/config.php:1782
+msgid "Sub footer - background color"
+msgstr ""
+
+#: framework/options/config.php:1783
+msgid "Pick a background color for the sub footer."
+msgstr ""
+
+#: framework/options/config.php:1791
+msgid "Sub footer - font color"
+msgstr ""
+
+#: framework/options/config.php:1792
+msgid "Pick a color for the font links and hover sub footer."
+msgstr ""
+
+#: framework/options/config.php:1813
+msgid "Featured Posts Options"
+msgstr ""
+
+#: framework/options/config.php:1822
+msgid "FEATURED POSTS LAYOUT"
+msgstr ""
+
+#: framework/options/config.php:1823
+msgid ""
+"Choose a layout for the Featured Articles to be displayed under the header "
+"section."
+msgstr ""
+
+#: framework/options/config.php:1844
+msgid "Rows height"
+msgstr ""
+
+#: framework/options/config.php:1845
+msgid "Specify the rows height. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:1846
+msgid "width: Min: 0, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: framework/options/config.php:1861
+msgid "align menu top navigation"
+msgstr ""
+
+#: framework/options/config.php:1862
+msgid "Select align menu top navigation"
+msgstr ""
+
+#: framework/options/config.php:1879
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: framework/options/config.php:1880
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: framework/options/config.php:1881
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: framework/options/config.php:1912
+msgid "Blog Options"
+msgstr ""
+
+#: framework/options/config.php:1922
+msgid "BLOG POST PAGE LAYOUT"
+msgstr ""
+
+#: framework/options/config.php:1923
+msgid "Select a layout for the blog s article page."
+msgstr ""
+
+#: framework/options/config.php:1936
+msgid "ICON SOCIAL SHARE"
+msgstr ""
+
+#: framework/options/config.php:1937
+msgid ""
+"Choose if you want to display the \"icon social share\" at the bottom of the "
+"article"
+msgstr ""
+
+#: framework/options/config.php:1946
+msgid "ABOUT THE AUTHOR"
+msgstr ""
+
+#: framework/options/config.php:1947
+msgid ""
+"Choose if you want to display the \"About the Author\"  box at the bottom of "
+"the article"
+msgstr ""
+
+#: framework/options/config.php:1957
+msgid "RELATED POST"
+msgstr ""
+
+#: framework/options/config.php:1958
+msgid ""
+"Choose if you want to display the Related Posts at the bottom of the article"
+msgstr ""
+
+#: framework/options/config.php:1966
+msgid "prev/next post"
+msgstr ""
+
+#: framework/options/config.php:1967
+msgid ""
+"Choose if you want to display the prev/next post at the bottom of the article"
+msgstr ""
+
+#: framework/options/config.php:1978
+msgid "RELATED POST LAYOUT"
+msgstr ""
+
+#: framework/options/config.php:1979
+msgid "Select a layout for the Related Posts."
+msgstr ""
+
+#: framework/options/config.php:1993
+msgid "CATEGORY POST LAYOUT"
+msgstr ""
+
+#: framework/options/config.php:1994
+msgid ""
+"Select a layout for the Search results or display the Blog posts when you "
+"click on a specific Category."
+msgstr ""
+
+#: framework/options/config.php:2022
+msgid "Blog Author Settings"
+msgstr ""
+
+#: framework/options/config.php:2032
+msgid "SIDEBAR BLOG AUTHOR BOX"
+msgstr ""
+
+#: framework/options/config.php:2033
+msgid "Choose if you want to display the Blog Author box on the pages Sidebar"
+msgstr ""
+
+#: framework/options/config.php:2054
+msgid "BLOG AUTHOR BOX"
+msgstr ""
+
+#: framework/options/config.php:2063
+msgid "Author Avatar Image"
+msgstr ""
+
+#: framework/options/config.php:2065
+msgid "Upload a photo of the Blog Author"
+msgstr ""
+
+#: framework/options/config.php:2074
+msgid "Author Avatar Background Image"
+msgstr ""
+
+#: framework/options/config.php:2076
+msgid "Upload a background image that will go underneath the Author avatar"
+msgstr ""
+
+#: framework/options/config.php:2085
+msgid "Author Name"
+msgstr ""
+
+#: framework/options/config.php:2086
+msgid "Write the Author s name"
+msgstr ""
+
+#: framework/options/config.php:2094
+msgid "Author Name Style"
+msgstr ""
+
+#: framework/options/config.php:2096
+msgid "Choose font style and colors for the Author name."
+msgstr ""
+
+#: framework/options/config.php:2122
+msgid "Author Location"
+msgstr ""
+
+#: framework/options/config.php:2123
+msgid "Write the Author city or country"
+msgstr ""
+
+#: framework/options/config.php:2130
+msgid "Author Location typography"
+msgstr ""
+
+#: framework/options/config.php:2132
+msgid "Choose font style and colors for the Author location."
+msgstr ""
+
+#: framework/options/config.php:2157
+msgid "Author About Text"
+msgstr ""
+
+#: framework/options/config.php:2158
+msgid "Write a short text to display the Author bio or description."
+msgstr ""
+
+#: framework/options/config.php:2167
+msgid "color text author"
+msgstr ""
+
+#: framework/options/config.php:2168
+msgid "Pick a color text for author ."
+msgstr ""
+
+#: framework/options/config.php:2176
+msgid "color background author"
+msgstr ""
+
+#: framework/options/config.php:2177
+msgid "Pick a background color for box author ."
+msgstr ""
+
+#: framework/options/config.php:2196
+msgid "Social on about the author"
+msgstr ""
+
+#: framework/options/config.php:2197
+msgid "Do you want to display social on the about the author ?"
+msgstr ""
+
+#: framework/options/config.php:2208
+msgid "AUTHOR SOCIAL ICONS COLOR"
+msgstr ""
+
+#: framework/options/config.php:2210
+msgid "Pick a color for author social."
+msgstr ""
+
+#: framework/options/config.php:2252
+msgid "Social Configuration"
+msgstr ""
+
+#: framework/options/config.php:2260
+msgid "Chose the icons library"
+msgstr ""
+
+#: framework/options/config.php:2275
+msgid "Facebook url"
+msgstr ""
+
+#: framework/options/config.php:2276 framework/options/config.php:2288
+#: framework/options/config.php:2300 framework/options/config.php:2312
+#: framework/options/config.php:2324 framework/options/config.php:2336
+#: framework/options/config.php:2348 framework/options/config.php:2360
+#: framework/options/config.php:2372 framework/options/config.php:2384
+#: framework/options/config.php:2396 framework/options/config.php:2408
+#: framework/options/config.php:2421 framework/options/config.php:2435
+#: framework/options/config.php:2452 framework/options/config.php:2464
+#: framework/options/config.php:2476 framework/options/config.php:2488
+#: framework/options/config.php:2500 framework/options/config.php:2512
+#: framework/options/config.php:2524 framework/options/config.php:2536
+msgid "This must be a URL."
+msgstr ""
+
+#: framework/options/config.php:2287
+msgid "Twitter url"
+msgstr ""
+
+#: framework/options/config.php:2299
+msgid "Google+ url"
+msgstr ""
+
+#: framework/options/config.php:2311
+msgid "Behance url"
+msgstr ""
+
+#: framework/options/config.php:2323
+msgid "Dribbble url"
+msgstr ""
+
+#: framework/options/config.php:2335
+msgid "LinkedIn url"
+msgstr ""
+
+#: framework/options/config.php:2347
+msgid "Flickr url"
+msgstr ""
+
+#: framework/options/config.php:2359
+msgid "Vimeo url"
+msgstr ""
+
+#: framework/options/config.php:2371
+msgid "SoundCloud url"
+msgstr ""
+
+#: framework/options/config.php:2383
+msgid "DeviantArt url"
+msgstr ""
+
+#: framework/options/config.php:2395
+msgid "Instagram url"
+msgstr ""
+
+#: framework/options/config.php:2407
+msgid "Pinterest url"
+msgstr ""
+
+#: framework/options/config.php:2420
+msgid "youtube url"
+msgstr ""
+
+#: framework/options/config.php:2434
+msgid "Rss url"
+msgstr ""
+
+#: framework/options/config.php:2451
+msgid "Tumblr url"
+msgstr ""
+
+#: framework/options/config.php:2463
+msgid "Etsy url"
+msgstr ""
+
+#: framework/options/config.php:2475
+msgid "Band camp url"
+msgstr ""
+
+#: framework/options/config.php:2487
+msgid "500px url"
+msgstr ""
+
+#: framework/options/config.php:2499
+msgid "TripAdvisor url"
+msgstr ""
+
+#: framework/options/config.php:2511
+msgid "Snapchat url"
+msgstr ""
+
+#: framework/options/config.php:2523
+msgid "Spotify url"
+msgstr ""
+
+#: framework/options/config.php:2535
+msgid "Email url"
+msgstr ""
+
+#: framework/options/config.php:2549
+msgid "INFO TWITTER"
+msgstr ""
+
+#: framework/options/config.php:2551
+msgid ""
+"You can generate all the keys you need from this external link <a href="
+"\"https://apps.twitter.com/\"target=\"_blank\"> Twitter Apps </a>"
+msgstr ""
+
+#: framework/options/config.php:2558
+msgid "TWITTER KEY"
+msgstr ""
+
+#: framework/options/config.php:2602
+msgid "Footer"
+msgstr ""
+
+#: framework/options/config.php:2609
+msgid "SOCIAL SHARE ON FOOTER TOP"
+msgstr ""
+
+#: framework/options/config.php:2610
+msgid "Do you want to display social share on the footer ?"
+msgstr ""
+
+#: framework/options/config.php:2619
+msgid "Social tooltip"
+msgstr ""
+
+#: framework/options/config.php:2620
+msgid "inser your social link"
+msgstr ""
+
+#: framework/options/config.php:2652
+msgid "WIDGETS FOOTER"
+msgstr ""
+
+#: framework/options/config.php:2653
+msgid "Do you want to add widgets in the footer?"
+msgstr ""
+
+#: framework/options/config.php:2661
+msgid "ACTIVATION CENTRAL FOOTER"
+msgstr ""
+
+#: framework/options/config.php:2663
+msgid "Do you want to activate the central footer?"
+msgstr ""
+
+#: framework/options/config.php:2674
+msgid "Retina Logo Upload"
+msgstr ""
+
+#: framework/options/config.php:2676
+msgid ""
+"Upload a Retina-friendly logo if you want it to be correctly displayed on "
+"Retina Devices. Please note the logo must be twice of the normal size "
+"(example: if you want to show a 60x60 px logo on the website, the size of "
+"the image must be 120x120 px)"
+msgstr ""
+
+#: framework/options/config.php:2686
+msgid "Specify the logo width. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:2701
+msgid "Specify the logo height. Enter only number value."
+msgstr ""
+
+#: framework/options/config.php:2714
+msgid "Activation sub footer"
+msgstr ""
+
+#: framework/options/config.php:2715
+msgid "Do you want to display the sub footer ?"
+msgstr ""
+
+#: framework/options/config.php:2722
+msgid "FOOTER TEXT"
+msgstr ""
+
+#: framework/options/config.php:2724
+msgid ""
+"Enter the text that you want to be displayed into the footer bottom. HTML is "
+"allowed."
+msgstr ""
+
+#: framework/options/config.php:2757 framework/options/config.php:2765
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/options/config.php:2766
+msgid ""
+"If you have any custom CSS you would like added to the site, please enter it "
+"here."
+msgstr ""
+
+#: framework/options/config.php:2777
+msgid "Insert code inside head tag <head>"
+msgstr ""
+
+#: framework/options/config.php:2778
+msgid ""
+"If you need to insert custom code inside \"head\" tag you can do it from "
+"here."
+msgstr ""
+
+#: framework/options/config.php:2885
+msgid "Section via hook"
+msgstr ""
+
+#: framework/options/config.php:2886
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:453
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:686
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:461
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:687
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:477
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:688
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: framework/options/core/core/enqueue.php:496
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: framework/options/core/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/options/core/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: framework/options/core/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/options/core/framework.php:220
+#: framework/options/core/inc/welcome/welcome.php:201
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/options/core/framework.php:224
+#: framework/options/core/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: framework/options/core/framework.php:1748
+msgid "Enable"
+msgstr ""
+
+#: framework/options/core/framework.php:1753
+msgid "Disable"
+msgstr ""
+
+#: framework/options/core/framework.php:1759
+msgid "moving the mouse over"
+msgstr ""
+
+#: framework/options/core/framework.php:1761
+msgid "clicking"
+msgstr ""
+
+#: framework/options/core/framework.php:1765
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: framework/options/core/framework.php:1770
+msgid "Hints"
+msgstr ""
+
+#: framework/options/core/framework.php:1897
+msgid "Default"
+msgstr ""
+
+#: framework/options/core/framework.php:2779
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: framework/options/core/framework.php:2788
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: framework/options/core/framework.php:2868
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: framework/options/core/framework.php:3963
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: framework/options/core/framework.php:3978
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: framework/options/core/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: framework/options/core/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: framework/options/core/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: framework/options/core/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: framework/options/core/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: framework/options/core/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: framework/options/core/inc/class.redux_filesystem.php:31
+#: framework/options/core/inc/class.redux_filesystem.php:60
+#: framework/options/core/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: framework/options/core/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: framework/options/core/inc/class.redux_filesystem.php:60
+#: framework/options/core/inc/class.redux_filesystem.php:271
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: framework/options/core/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:721
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:722
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/extension_customizer.php:723
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: framework/options/core/inc/extensions/customizer/inc/customizer_panel.php:114
+#: framework/options/core/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/inc/customizer_panel.php:138
+#: framework/options/core/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: framework/options/core/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: framework/options/core/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: framework/options/core/inc/extensions/options_object/extension_options_object.php:82
+#: framework/options/core/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: framework/options/core/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:124
+#: framework/options/core/inc/fields/color/field_color.php:73
+#: framework/options/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: framework/options/core/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:277
+#: framework/options/core/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:314
+#: framework/options/core/inc/fields/media/field_media.php:198
+#: framework/options/core/inc/fields/slides/field_slides.php:126
+#: framework/options/core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: framework/options/core/inc/fields/background/field_background.php:321
+#: framework/options/core/inc/fields/media/field_media.php:205
+#: framework/options/core/inc/fields/multi_text/field_multi_text.php:69
+#: framework/options/core/inc/fields/multi_text/field_multi_text.php:73
+#: framework/options/core/inc/fields/multi_text/field_multi_text.php:76
+#: framework/options/core/inc/fields/slides/field_slides.php:133
+#: framework/options/core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:125
+#: framework/options/core/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:138
+#: framework/options/core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:145
+#: framework/options/core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:152
+#: framework/options/core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:159
+#: framework/options/core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: framework/options/core/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: framework/options/core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: framework/options/core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: framework/options/core/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: framework/options/core/inc/fields/dimensions/field_dimensions.php:178
+#: framework/options/core/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: framework/options/core/inc/fields/dimensions/field_dimensions.php:189
+#: framework/options/core/inc/fields/dimensions/field_dimensions.php:190
+#: framework/options/core/inc/fields/spacing/field_spacing.php:245
+#: framework/options/core/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: framework/options/core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: framework/options/core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: framework/options/core/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: framework/options/core/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: framework/options/core/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: framework/options/core/inc/fields/link_color/field_link_color.php:100
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/options/core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: framework/options/core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: framework/options/core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: framework/options/core/inc/fields/select/field_select.php:83
+#: framework/options/core/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: framework/options/core/inc/fields/select/field_select.php:134
+#: framework/options/core/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:73
+#: framework/options/core/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:145
+#: framework/options/core/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:149
+#: framework/options/core/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:153
+#: framework/options/core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:167
+#: framework/options/core/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: framework/options/core/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/options/core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: framework/options/core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:258
+#: framework/options/core/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:273
+#: framework/options/core/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:342
+#: framework/options/core/inc/fields/typography/field_typography.php:343
+#: framework/options/core/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:365
+#: framework/options/core/inc/fields/typography/field_typography.php:366
+#: framework/options/core/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:388
+#: framework/options/core/inc/fields/typography/field_typography.php:389
+#: framework/options/core/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:408
+#: framework/options/core/inc/fields/typography/field_typography.php:409
+#: framework/options/core/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:432
+#: framework/options/core/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:441
+#: framework/options/core/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:450
+#: framework/options/core/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:459
+#: framework/options/core/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/options/core/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: framework/options/core/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:154
+#: framework/options/core/inc/welcome/welcome.php:225
+msgid "Redux Extensions"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: framework/options/core/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: framework/options/core/inc/validation/color/validation_color.php:15
+#: framework/options/core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: framework/options/core/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/options/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: framework/options/core/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: framework/options/core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/options/core/inc/validation/email/validation_email.php:16
+#: framework/options/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/options/core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/options/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/options/core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: framework/options/core/inc/validation/numeric/validation_numeric.php:16
+#: framework/options/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/options/core/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: framework/options/core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:8
+#: framework/options/core/inc/welcome/views/changelog.php:10
+#: framework/options/core/inc/welcome/views/credits.php:10
+#: framework/options/core/inc/welcome/views/extensions.php:81
+#: framework/options/core/inc/welcome/views/status_report.php:34
+#: framework/options/core/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/changelog.php:5
+#: framework/options/core/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:356
+#: framework/options/core/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:482
+#: framework/options/core/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:715
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:19
+#: framework/options/core/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:21
+#: framework/options/core/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: framework/options/core/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:179
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:201
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:209
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:217
+msgid "Get Support"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:234
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:242
+msgid "Redux Framework Status"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:342
+msgid "What's New"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:351
+msgid "Credits"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:357
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/options/core/inc/welcome/welcome.php:517
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: framework/options/core/templates/panel/footer.tpl.php:57
+#: framework/options/core/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: framework/options/core/templates/panel/footer.tpl.php:61
+#: framework/options/core/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: framework/options/core/templates/panel/footer.tpl.php:62
+#: framework/options/core/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: framework/options/core/templates/panel/footer.tpl.php:67
+#: framework/options/core/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:11
+#: framework/options/core/templates/panel/header.tpl.php:54
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: framework/options/core/templates/panel/header.tpl.php:68
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: framework/options/core/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:393
+#: framework/plugin-activation/class-tgm-plugin-activation.php:912
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2618
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:394
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:395
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:1019
+#: framework/plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:1206
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3594
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3594
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/sidebar/ThemeAdmin.php:58
+msgid "Added Sidebar with successful"
+msgstr ""
+
+#: framework/sidebar/ThemeAdmin.php:62
+msgid "Here you can create new sidebar"
+msgstr ""
+
+#: framework/sidebar/ThemeAdmin.php:64
+msgid "Name of sidebar"
+msgstr ""
+
+#: framework/sidebar/ThemeAdmin.php:67
+msgid "Add Sidebar"
+msgstr ""
+
+#: framework/widget/widget-banner.php:76
+#: framework/widget/widget-big-posts.php:124
+#: framework/widget/widget-posts.php:116 framework/widget/widget-social.php:112
+#: framework/widget/widget-twitter.php:117
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/widget-banner.php:80
+#: framework/widget/widget-full-banner.php:71
+msgid "Link url:"
+msgstr ""
+
+#: framework/widget/widget-banner.php:84
+#: framework/widget/widget-full-banner.php:75
+msgid "Image url:"
+msgstr ""
+
+#: framework/widget/widget-big-posts.php:128
+#: framework/widget/widget-posts.php:120
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget/widget-big-posts.php:133
+msgid "Category posts to show:"
+msgstr ""
+
+#: framework/widget/widget-social.php:15
+msgid "Displays Social Icons in navigation bar!"
+msgstr ""
+
+#: framework/widget/widget-social.php:16
+msgid "INDIEGROUND Social"
+msgstr ""
+
+#: framework/widget/widget-social.php:106
+msgid "New title"
+msgstr ""
+
+#: framework/widget/widget-twitter.php:14
+msgid "Use this widget to display your latest tweets."
+msgstr ""
+
+#: framework/widget/widget-twitter.php:15
+msgid "INDIEGROUND Twitter Stream"
+msgstr ""
+
+#: functions.php:50
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Bottom Header Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Scroll Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:226
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:228
+msgid "The blog sidebar left and rigth "
+msgstr ""
+
+#: functions.php:256
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: functions.php:258
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:269
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: functions.php:271
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:280
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: functions.php:282
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:291
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: functions.php:293
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: functions.php:356 template/ilgelo-format.20180118.php:721
+#: template/ilgelo-format.php:710
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:357 template/ilgelo-format.20180118.php:722
+#: template/ilgelo-format.php:711
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:416
+msgid "Home"
+msgstr ""
+
+#: ilgelo-searchform.php:25
+msgid "Search"
+msgstr ""
+
+#: ilgelo-searchform.php:25 searchform.php:10
+msgctxt "label"
+msgid ""
+msgstr ""
+
+#: ilgelo-searchform.php:27
+msgid "Filter your search by Category : Tag : Date"
+msgstr ""
+
+#: ilgelo-searchform.php:33
+msgid "Category"
+msgstr ""
+
+#: ilgelo-searchform.php:40
+msgid "Tags"
+msgstr ""
+
+#: page.php:11 template-page-full.php:18 template-page-sidebar-left.php:27
+#: template-page-sidebar-right.php:16 template-parallax-blog.php:15
+msgid "Pages:"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: searchform.php:10
+msgid "Search and hit enter &hellip;"
+msgstr ""
+
+#: template-infinite-post.php:21 template-parallax-blog.php:30
+msgid "VIEW MORE"
+msgstr ""
+
+#: template-sitemap.php:21
+msgid "All Pages"
+msgstr ""
+
+#: template-sitemap.php:28
+msgid "Latest 30 Posts"
+msgstr ""
+
+#: template/category-full.php:7 template/category-grid.php:7
+#: template/category-list.php:7 template/category-sider-left.php:24
+#: template/category-sider-right.php:7
+msgid "Browsing Category"
+msgstr ""
+
+#: template/header/menubottom_style_1.php:17
+#: template/header/menubottom_style_2.php:17
+#: template/header/menubottom_style_3.php:16
+#: template/header/menubottom_style_5.php:10
+#: template/header/menutop_style_1.php:16
+#: template/header/menutop_style_2.php:17
+#: template/header/menutop_style_3.php:18
+#: template/header/menutop_style_5.php:11
+msgid "search"
+msgstr ""
+
+#: template/ilgelo-format-slide.php:185
+msgid "RELATED POSTS"
+msgstr ""
+
+#: template/ilgelo-format.20180118.php:130 template/ilgelo-format.php:130
+msgid "By"
+msgstr ""
+
+#: template/ilgelo-format.20180118.php:133 template/ilgelo-format.php:133
+msgid "on"
+msgstr ""
+
+#: template/ilgelo-format.20180118.php:182 template/ilgelo-format.php:182
+msgid "Post a Comment"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "journey"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/journey-personal-wordpress-blog-theme/12234742?"
+"s_rank=1"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Journey - Personal WordPress Blog Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Indieground"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.indieground.it/"
+msgstr ""
